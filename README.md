@@ -9,6 +9,8 @@
 <p align="middle">
   <a href="mailto:yanglu@gatech.edu" target="blank">  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" />Email</a>
   <a href="https://github.com/lukeyanggb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />Github</a>
+  <a href="https://www.linkedin.com/in/yang-luke/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />LinkedIn</a>
+
 </p>
 
 <h3 align="middle">Languages and Tools:</h3>
