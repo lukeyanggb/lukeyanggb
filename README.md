@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yang Lu</h1>
-<h3 align="center">:raising_hand: Seeking full-time and internship software engineer positions</h3>
+<h3 align="center">:raising_hand: Seeking full-time and internship software engineer positions </h3>
 <!-- <h4 align="center">https://github.com/lukeyanggb</h3> -->
 
+- :star: My <a href="https://github.com/lukeyanggb/lukeyanggb/blob/main/Resume.pdf">resume</a>
 - :love_letter: Master of **Computer Science** at Georgia Institute of Technology (2021 - 2023)
 
+- :computer: Projects:
+    - [Marijuana Analyzer](https://lukeyanggb.github.io/) - JavaScript, Python, D3.js, Bootstrap, AWS, scikit-learn
+    - [Grocery Express System](https://github.com/lukeyanggb/Grocery-Express-Web-App) - Java, Spring Boot, Spring Security, MySQL, Redis, Thymeleaf
+    - [Furniture Sales Reporting System](https://github.com/ZhiyuanMa2017/Node-with-React) - Python, PostgreSQL, Flask, HTML/CSS
+    - Border Gateway Protocol (BGP) Hijacking Simulation - Python, Mininet, UNIX shell
 
 <h3 align="middle">Connect with me:</h2>
 <p align="middle">
