@@ -8,7 +8,7 @@
 - :computer: Projects:
     - [Marijuana Analyzer](https://github.com/lukeyanggb/MarijuanaAnalyzer) ([Demo](http://yanglu.me:8081)) - JavaScript, Python, D3.js, Bootstrap, AWS, scikit-learn
     - [Grocery Express System](https://github.com/lukeyanggb/Grocery-Express-Web-App) - Java, Spring Boot, Spring Security, MySQL, Redis, Thymeleaf
-    - [Furniture Sales Reporting System](https://github.com/lukeyanggb/Furniture-Sales-Reporting-System) - Python, PostgreSQL, Flask, HTML/CSS
+    - [Furniture Sales Reporting System](https://github.com/lukeyanggb/Furniture-Sales-Reporting-System) ([Demo](http://yanglu.me:8083/)) - Python, PostgreSQL, Flask, HTML/CSS
     - Border Gateway Protocol (BGP) Hijacking Simulation - Python, Mininet, UNIX shell
     - [MovieDB Lite](https://github.com/lukeyanggb/MovieDB-Lite) ([Demo](http://yanglu.me:8082)) - JavaScript, React, RESTful API
 
