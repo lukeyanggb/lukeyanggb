@@ -3,7 +3,7 @@
 <!-- <h4 align="center">https://github.com/lukeyanggb</h3> -->
 
 - :star: My <a href="https://github.com/lukeyanggb/lukeyanggb/blob/main/Resume.pdf">resume</a> | My <a href="http://yanglu.me">personal website</a>
-- :love_letter: Master of **Computer Science** at Georgia Institute of Technology (2021 - Dec 2022)
+- :love_letter: Master of **Computer Science** at Georgia Institute of Technology (2021 - Present)
 
 - :computer: Projects:
     - [Marijuana Analyzer](https://github.com/lukeyanggb/MarijuanaAnalyzer) ([Demo](http://yanglu.me:8081)) - JavaScript, Python, D3.js, Bootstrap, AWS, scikit-learn
