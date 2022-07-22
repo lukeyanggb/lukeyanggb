@@ -2,7 +2,7 @@
 <h3 align="center">:raising_hand: Seeking full-time and internship software engineer positions </h3>
 <!-- <h4 align="center">https://github.com/lukeyanggb</h3> -->
 
-- :star: My <a href="https://github.com/lukeyanggb/lukeyanggb/blob/main/Resume.pdf">resume</a> | My <a href="http://yanglu.me">personal website</a>
+- :star: My <a href="https://github.com/lukeyanggb/lukeyanggb/blob/main/Resume.pdf">resume</a> | My <a href="http://yanglu.me">website</a>
 - :love_letter: Master of **Computer Science** at Georgia Institute of Technology (2021 - Present)
 
 - :computer: Projects:
