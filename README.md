@@ -10,7 +10,7 @@
     - [Grocery Express System](https://github.com/lukeyanggb/Grocery-Express-Web-App) - Java, Spring Boot, Spring Security, MySQL, Redis, Thymeleaf
     - [Furniture Sales Reporting System](https://github.com/lukeyanggb/Furniture-Sales-Reporting-System) ([Demo](http://furniture.db.yanglu.me:8083/)) - Python, PostgreSQL, Flask, HTML/CSS
     - [MovieDB Lite](https://github.com/lukeyanggb/MovieDB-Lite) ([Demo](http://moviedb.yanglu.me:8082/)) - React, JavaScript, HTML/CSS
-    - [Meme Generator](https://github.com/lukeyanggb/Meme-Generator) ([Demo](http://yanglu.me:8083/)) - React, JavaScript, HTML/CSS
+    - [Meme Generator](https://github.com/lukeyanggb/Meme-Generator) ([Demo](http://yanglu.me:8084/)) - React, JavaScript, HTML/CSS
     - Border Gateway Protocol (BGP) Hijacking Simulation - Python, Mininet, UNIX shell
 
 <h3 align="middle">Connect with me:</h2>
