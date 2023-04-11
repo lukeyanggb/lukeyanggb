@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yang Lu</h1>
-<h3 align="center">:raising_hand: Seeking full-time software engineer positions </h3>
+<h3 align="center">:raising_hand: Seeking full-time software/data engineer positions </h3>
 <!-- <h4 align="center">https://github.com/lukeyanggb</h3> -->
 
 - :star: My <a href="https://github.com/lukeyanggb/lukeyanggb/blob/main/Resume.pdf">resume</a> | My <a href="https://yanglu.me">website</a>
